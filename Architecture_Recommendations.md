@@ -1,3 +1,6 @@
+
+# Architecture Recommendations
+
 ### contracts/common/EssentialContract.sol
 **Architecture Recommendations:**
 
